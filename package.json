@@ -3,17 +3,8 @@
   "version": "1.0.0",
   "description": "File extractor to get real extension of file given by checking through the file's signature",
   "main": "index.js",
-  "homepage": "https://github.com/irwansyafani/isignature",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "npm",
-    "url": "https://github.com/irwansyafani/isignature"
-  },
-  "author": {
-    "name": "irwansyafani",
-    "url": "https://irwansyafani.com"
   },
   "license": "ISC",
   "keywords": [
