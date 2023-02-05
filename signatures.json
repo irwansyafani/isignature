@@ -1,0 +1,2753 @@
+[
+  {
+    "signature": "23 21",
+    "length": 2,
+    "offset": 0,
+    "extension": [],
+    "description": "Script or data to be passed to the program following the shebang",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "D4 C3 B2 A1",
+    "length": 4,
+    "offset": 0,
+    "extension": ["pcap"],
+    "description": "Libpcap File Format (little-endian)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "A1 B2 C3 D4",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Libpcap File Format (big-endian)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4D 3C B2 A1",
+    "length": 4,
+    "offset": 0,
+    "extension": ["pcap"],
+    "description": "Libpcap File Format (nanosecond-resolution) (little-endian)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "A1 B2 3C 4D",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Libpcap File Format (nanosecond-resolution) (big-endian)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "0A 0D 0D 0A",
+    "length": 4,
+    "offset": 0,
+    "extension": ["pcapng"],
+    "description": "PCAP Next Generation Dump File Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "ED AB EE DB",
+    "length": 4,
+    "offset": 0,
+    "extension": ["rpm"],
+    "description": "RedHat Package Manager (RPM) package",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "53 51 4C 69 74 65 20 66 6F 72 6D 61 74 20 33 00",
+    "length": 16,
+    "offset": 0,
+    "extension": ["sqlitedb", "sqlite", "db"],
+    "description": "SQLite Database",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "53 50 30 31",
+    "length": 4,
+    "offset": 0,
+    "extension": ["bin"],
+    "description": "Amazon Kindle Update Package",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "49 57 41 44",
+    "length": 4,
+    "offset": 0,
+    "extension": ["wad"],
+    "description": "internal WAD (main resource file of Doom)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00",
+    "length": 1,
+    "offset": 0,
+    "extension": ["PIC", "PIF", "SEA", "YTR"],
+    "description": [
+      "IBM Storyboard bitmap file",
+      "Windows Program Information File",
+      "Mac Stuffit Self-Extracting Archive",
+      "IRIS OCR data file"
+    ],
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+    "length": 24,
+    "offset": 0,
+    "extension": ["PDB"],
+    "description": "PalmPilot Database/Document File",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "BE BA FE CA",
+    "length": 4,
+    "offset": 0,
+    "extension": ["DBA"],
+    "description": "Palm Desktop Calendar Archive",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 01 42 44",
+    "length": 4,
+    "offset": 0,
+    "extension": ["DBA"],
+    "description": "Palm Desktop To Do Archive",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 01 44 54",
+    "length": 4,
+    "offset": 0,
+    "extension": ["TDA"],
+    "description": "Palm Desktop Calendar Archive",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "54 44 46 24",
+    "length": 4,
+    "offset": 0,
+    "extension": ["TDF$"],
+    "description": "Telegram Desktop File",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "54 44 45 46",
+    "length": 4,
+    "offset": 0,
+    "extension": ["TDEF"],
+    "description": "Telegram Desktop Encrypted File",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 01 00 00",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Palm Desktop Data File (Access format)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 00 01 00",
+    "length": 4,
+    "offset": 0,
+    "extension": ["ico"],
+    "description": "Computer icon encoded in ICO file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "69 63 6e 73",
+    "length": 4,
+    "offset": 0,
+    "extension": ["icns"],
+    "description": "Apple Icon Image format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "66 74 79 70 33 67",
+    "length": 6,
+    "offset": 0,
+    "extension": ["3gp", "3g2"],
+    "description": "3rd Generation Partnership Project 3GPP and 3GPP2 multimedia files",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "1F 9D",
+    "length": 2,
+    "offset": 0,
+    "extension": ["z", "tar.z"],
+    "description": "compressed file (often tar zip) using Lempel-Ziv-Welch algorithm",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "1F A0",
+    "length": 2,
+    "offset": 0,
+    "extension": ["z", "tar.z"],
+    "description": "Compressed file (often tar zip) using LZH algorithm",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2D 68 6C 30 2D",
+    "length": 5,
+    "offset": 0,
+    "extension": ["lzh"],
+    "description": "Lempel Ziv Huffman archive file Method 0 (No compression)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2D 68 6C 35 2D",
+    "length": 5,
+    "offset": 0,
+    "extension": ["lzh"],
+    "description": "Lempel Ziv Huffman archive file Method 5 (8KiB sliding window)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "42 41 43 4B 4D 49 4B 45 44 49 53 4B",
+    "length": 12,
+    "offset": 0,
+    "extension": ["bac"],
+    "description": "AmiBack Amiga Backup data file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "49 4E 44 58",
+    "length": 4,
+    "offset": 0,
+    "extension": ["idx"],
+    "description": "AmiBack Amiga Backup index file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "62 70 6C 69 73 74",
+    "length": 6,
+    "offset": 0,
+    "extension": ["plist"],
+    "description": "Binary Property List file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "42 5A 68",
+    "length": 3,
+    "offset": 0,
+    "extension": ["bz2"],
+    "description": "Compressed file using Bzip2 algorithm",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "47 49 46 38 37 61",
+    "length": 6,
+    "offset": 0,
+    "extension": ["gif"],
+    "description": "Image file encoded in the Graphics Interchange Format (GIF)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "47 49 46 38 39 61",
+    "length": 6,
+    "offset": 0,
+    "extension": ["gif"],
+    "description": "Image file encoded in the Graphics Interchange Format (GIF)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "49 49 2A 00",
+    "length": 4,
+    "offset": 0,
+    "extension": ["tif", "tiff"],
+    "description": "Tagged Image File Format (TIFF) (little-endian)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4D 4D 00 2A",
+    "length": 5,
+    "offset": 0,
+    "extension": ["tif", "tiff"],
+    "description": "Tagged Image File Format (TIFF) (big-endian)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "49 49 2A 00 10 00 00 00 43 52",
+    "length": 10,
+    "offset": 0,
+    "extension": ["cr2"],
+    "description": [
+      "Canon RAW Format Version 2",
+      "Canon's RAW format is based on TIFF"
+    ],
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "80 2A 5F D7",
+    "length": 4,
+    "offset": 0,
+    "extension": ["cin"],
+    "description": "Kodak Cineon image",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 4E 43 01",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Compressed file using Rob Northen Compression (version 1 and 2) algorithm",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 4E 43 02",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Compressed file using Rob Northen Compression (version 1 and 2) algorithm",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4E 55 52 55 49 4D 47",
+    "length": 7,
+    "offset": 0,
+    "extension": ["nui", "nup"],
+    "description": "nuru ASCII/ANSI image and palette files",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4E 55 52 55 50 41 4C",
+    "length": 7,
+    "offset": 0,
+    "extension": ["nui", "nup"],
+    "description": "nuru ASCII/ANSI image and palette files",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "53 44 50 58",
+    "length": 4,
+    "offset": 0,
+    "extension": ["dpx"],
+    "description": "SMPTE DPX image (big-endian format)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "58 50 44 53",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "SMPTE DPX image (little-endian format)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "76 2F 31 01",
+    "length": 4,
+    "offset": 0,
+    "extension": ["exr"],
+    "description": "OpenEXR image",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "42 50 47 FB",
+    "length": 4,
+    "offset": 0,
+    "extension": ["bpg"],
+    "description": "Better Portable Graphics format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF D8 FF DB",
+    "length": 4,
+    "offset": 0,
+    "extension": ["jpg", "jpeg"],
+    "description": "JPEG raw or in the JFIF or Exif file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF D8 FF E0 00 10 4A 46 49 46 00 01",
+    "length": 12,
+    "offset": 0,
+    "extension": ["jpg", "jpeg"],
+    "description": "JPEG raw or in the JFIF or Exif file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF D8 FF EE",
+    "length": 4,
+    "offset": 0,
+    "extension": ["jpg", "jpeg"],
+    "description": "JPEG raw or in the JFIF or Exif file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF D8 FF E1 ?? ?? 45 78 69 66 00 00",
+    "length": 12,
+    "offset": 0,
+    "extension": ["jpg", "jpeg"],
+    "description": "JPEG raw or in the JFIF or Exif file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF D8 FF E0",
+    "length": 4,
+    "offset": 0,
+    "extension": ["jpg"],
+    "description": "JPEG raw or in the JFIF or Exif file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 00 00 0C 6A 50 20 20 0D 0A 87 0A",
+    "length": 12,
+    "offset": 0,
+    "extension": [
+      "jp2",
+      "j2k",
+      "jpf",
+      "jpm",
+      "jpg2",
+      "j2c",
+      "jpc",
+      "jpx",
+      "mj2"
+    ],
+    "description": "JPEG 2000 format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF 4F FF 51",
+    "length": 4,
+    "offset": 0,
+    "extension": [
+      "jp2",
+      "j2k",
+      "jpf",
+      "jpm",
+      "jpg2",
+      "j2c",
+      "jpc",
+      "jpx",
+      "mj2"
+    ],
+    "description": "JPEG 2000 format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "71 6f 69 66",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "QOI - The “Quite OK Image Format”",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 49 4C 42 4D",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["ilbm", "lbm", "ibm", "iff"],
+    "description": "IFF Interleaved Bitmap Image",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 38 53 56 58",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["8svx", "8sv", "svx", "snd", "iff"],
+    "description": "IFF 8-Bit Sampled Voice",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 41 43 42 4D",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["acbm", "iff"],
+    "description": "Amiga Contiguous Bitmap",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 41 4E 42 4D",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["anbm", "iff"],
+    "description": "IFF Animated Bitmap",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 41 4E 49 4D",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["anim", "iff"],
+    "description": "IFF CEL Animation",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 46 41 58 58",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["faxx", "fax", "iff"],
+    "description": "IFF Facsimile Image",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 46 54 58 54",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["ftxt", "iff"],
+    "description": "IFF Formatted Text",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 53 4D 55 53",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["smus", "smu", "mus", "iff"],
+    "description": "IFF Simple Musical Score",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 43 4D 55 53",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["cmus", "mus", "iff"],
+    "description": "IFF Musical Score",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 59 55 56 4E",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["yuvn", "yuv", "iff"],
+    "description": "IFF YUV Image",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 46 41 4E 54",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["iff"],
+    "description": "Amiga Fantavision Movie",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4F 52 4D ?? ?? ?? ?? 41 49 46 46",
+    "length": 12,
+    "offset": [0, "any"],
+    "extension": ["aiff", "aif", "aifc", "snd", "iff"],
+    "description": "Audio Interchange File Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4C 5A 49 50",
+    "length": 4,
+    "offset": 0,
+    "extension": ["lz"],
+    "description": "lzip compressed file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "30 37 30 37 30 37",
+    "length": 6,
+    "offset": 0,
+    "extension": ["cpio"],
+    "description": "cpio archive file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4D 5A",
+    "length": 2,
+    "offset": 0,
+    "extension": [
+      "exe",
+      "scr",
+      "sys",
+      "dll",
+      "fon",
+      "cpl",
+      "iec",
+      "ime",
+      "rs",
+      "tsp",
+      "mz"
+    ],
+    "description": "DOS MZ executable and its descendants (including NE and PE)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "5A 4D",
+    "length": 2,
+    "offset": 0,
+    "extension": ["exe"],
+    "description": "DOS ZM executable and its descendants (rare)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 4B 03 04",
+    "length": 4,
+    "offset": 0,
+    "extension": [
+      "zip",
+      "aar",
+      "apk",
+      "docx",
+      "epub",
+      "ipa",
+      "jar",
+      "kmz",
+      "maff",
+      "msix",
+      "odp",
+      "ods",
+      "odt",
+      "pk3",
+      "pk4",
+      "pptx",
+      "usdz",
+      "vsdx",
+      "xlsx",
+      "xpi"
+    ],
+    "description": "zip file format and formats based on it, such as EPUB, JAR, ODF, OOXML",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 4B 05 06",
+    "length": 4,
+    "offset": 0,
+    "extension": [
+      "zip",
+      "aar",
+      "apk",
+      "docx",
+      "epub",
+      "ipa",
+      "jar",
+      "kmz",
+      "maff",
+      "msix",
+      "odp",
+      "ods",
+      "odt",
+      "pk3",
+      "pk4",
+      "pptx",
+      "usdz",
+      "vsdx",
+      "xlsx",
+      "xpi"
+    ],
+    "description": "zip file format and formats based on it, such as EPUB, JAR, ODF, OOXML (empty archive)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 4B 07 08",
+    "length": 4,
+    "offset": 0,
+    "extension": [
+      "zip",
+      "aar",
+      "apk",
+      "docx",
+      "epub",
+      "ipa",
+      "jar",
+      "kmz",
+      "maff",
+      "msix",
+      "odp",
+      "ods",
+      "odt",
+      "pk3",
+      "pk4",
+      "pptx",
+      "usdz",
+      "vsdx",
+      "xlsx",
+      "xpi"
+    ],
+    "description": "zip file format and formats based on it, such as EPUB, JAR, ODF, OOXML (spanned archive)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 61 72 21 1A 07 00",
+    "length": 7,
+    "offset": 0,
+    "extension": ["rar"],
+    "description": "Roshal ARchive compressed archive v1.50 onwards",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 61 72 21 1A 07 01 00",
+    "length": 8,
+    "offset": 0,
+    "extension": ["rar"],
+    "description": "Roshal ARchive compressed archive v5.00 onwards",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "7F 45 4C 46",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Executable and Linkable Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "89 50 4E 47 0D 0A 1A 0A",
+    "length": 8,
+    "offset": 0,
+    "extension": ["png"],
+    "description": "Image encoded in the Portable Network Graphics format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "C9",
+    "length": 1,
+    "offset": 0,
+    "extension": ["com"],
+    "description": "CP/M 3 and higher with overlays",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "CA FE BA BE",
+    "length": 4,
+    "offset": 0,
+    "extension": ["class"],
+    "description": "Java class file, Mach-O Fat Binary",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "EF BB BF",
+    "length": 3,
+    "offset": 0,
+    "extension": ["txt", "others"],
+    "description": "UTF-8 byte order mark, commonly seen in text files",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF FE",
+    "length": 2,
+    "offset": 0,
+    "extension": ["txt", "others"],
+    "description": "UTF-16LE byte order mark, commonly seen in text files",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FE FF",
+    "length": 2,
+    "offset": 0,
+    "extension": ["txt", "others"],
+    "description": "UTF-16BE byte order mark, commonly seen in text files",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF FE 00 00",
+    "length": 4,
+    "offset": 0,
+    "extension": ["txt", "others"],
+    "description": "UTF-32LE byte order mark for text",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 00 FE FF",
+    "length": 4,
+    "offset": 0,
+    "extension": ["txt", "others"],
+    "description": "UTF-32BE byte order mark for text",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2B 2F 76 38",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "UTF-7 byte order mark for text",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2B 2F 76 39",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "UTF-7 byte order mark for text",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2B 2F 76 2B",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "UTF-7 byte order mark for text",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2B 2F 76 2F",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "UTF-7 byte order mark for text",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "0E FE FF",
+    "length": 3,
+    "offset": 0,
+    "extension": ["txt", "others"],
+    "description": "SCSU byte order mark for text",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "DD 73 66 73",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "UTF-EBCDIC byte order mark for text",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FE ED FA CE",
+    "length": 4,
+    "offset": [0, "0x1000"],
+    "extension": [],
+    "description": "Mach-O binary (32-bit)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FE ED FA CF",
+    "length": 4,
+    "offset": [0, "0x1000"],
+    "extension": [],
+    "description": "Mach-O binary (64-bit)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FE ED FE ED",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "JKS JavakeyStore",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "CE FA ED FE",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Mach-O binary (reverse byte ordering scheme, 32-bit)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "CF FA ED FE",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Mach-O binary (reverse byte ordering scheme, 64-bit)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "25 21 50 53",
+    "length": 4,
+    "offset": 0,
+    "extension": ["ps"],
+    "description": "PostScript document",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "25 21 50 53 2D 41 64 6F 62 65 2D 33 2E 30 20 45 50 53 46 2D 33 2E 30",
+    "length": 23,
+    "offset": 0,
+    "extension": ["eps", "epsf"],
+    "description": "Encapsulated PostScript file version 3.0",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "25 21 50 53 2D 41 64 6F 62 65 2D 33 2E 31 20 45 50 53 46 2D 33 2E 30",
+    "length": 23,
+    "offset": 0,
+    "extension": ["eps", "epsf"],
+    "description": "Encapsulated PostScript file version 3.1",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "49 54 53 46 03 00 00 00 60 00 00 00",
+    "length": 12,
+    "offset": 0,
+    "extension": ["chm"],
+    "description": "MS Windows HtmlHelp Data",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "3F 5F",
+    "length": 2,
+    "offset": 0,
+    "extension": ["hlp"],
+    "description": "Windows 3.x/95/98 Help file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "25 50 44 46 2D",
+    "length": 5,
+    "offset": 0,
+    "extension": ["pdf"],
+    "description": "PDF document",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "30 26 B2 75 8E 66 CF 11 A6 D9 00 AA 00 62 CE 6C",
+    "length": 16,
+    "offset": 0,
+    "extension": ["asf", "wma", "wmv"],
+    "description": "Advanced Systems Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "24 53 44 49 30 30 30 31",
+    "length": 8,
+    "offset": 0,
+    "extension": [],
+    "description": "System Deployment Image, a disk image format used by Microsoft",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4F 67 67 53",
+    "length": 4,
+    "offset": 0,
+    "extension": ["ogg", "oga", "ogv"],
+    "description": "Ogg, an open source media container format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "38 42 50 53",
+    "length": 4,
+    "offset": 0,
+    "extension": ["psd"],
+    "description": "Photoshop Document file, Adobe Photoshop's native file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 49 46 46 ?? ?? ?? ?? 57 41 56 45",
+    "length": 12,
+    "offset": 0,
+    "extension": ["wav"],
+    "description": "Waveform Audio File Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 49 46 46 ?? ?? ?? ?? 41 56 49 20",
+    "length": 12,
+    "offset": 0,
+    "extension": ["avi"],
+    "description": "Audio Video Interleave video format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF FB",
+    "length": 2,
+    "offset": 0,
+    "extension": ["mp3"],
+    "description": "MPEG-1 Layer 3 file without an ID3 tag or with an ID3v1 tag (which is appended at the end of the file)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF F3",
+    "length": 2,
+    "offset": 0,
+    "extension": ["mp3"],
+    "description": "MPEG-1 Layer 3 file without an ID3 tag or with an ID3v1 tag (which is appended at the end of the file)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF F2",
+    "length": 2,
+    "offset": 0,
+    "extension": ["mp3"],
+    "description": "MPEG-1 Layer 3 file without an ID3 tag or with an ID3v1 tag (which is appended at the end of the file)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "49 44 33",
+    "length": 3,
+    "offset": 0,
+    "extension": ["mp3"],
+    "description": "MP3 file with an ID3v2 container",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "42 4D",
+    "length": 2,
+    "offset": 0,
+    "extension": ["bmp", "dib"],
+    "description": "BMP file, a bitmap format used mostly in the Windows world",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "43 44 30 30 31",
+    "length": 5,
+    "offset": ["0x8001", "0x8801", "0x9001"],
+    "extension": ["iso"],
+    "description": "ISO9660 CD/DVD image file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "43 44 30 30 31",
+    "length": 5,
+    "offset": 0,
+    "extension": ["cdi"],
+    "description": "CD-i CD image file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "6D 61 69 6E 2E 62 73",
+    "length": 7,
+    "offset": 0,
+    "extension": ["mgw"],
+    "description": "Nintendo Game & Watch image file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4E 45 53",
+    "length": 3,
+    "offset": 0,
+    "extension": ["nes"],
+    "description": "Nintendo Entertainment System image file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "A0 32 41 A0 A0 A0",
+    "length": 6,
+    "offset": 0,
+    "extension": ["d64"],
+    "description": "Commodore 64 1541 disk image (D64 format)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "47 53 52 2D 31 35 34 31",
+    "length": 8,
+    "offset": 0,
+    "extension": ["g64"],
+    "description": "Commodore 64 1541 disk image (G64 format)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "A0 33 44 A0 A0",
+    "length": 5,
+    "offset": 0,
+    "extension": ["d81"],
+    "description": "Commodore 64 1581 disk image (D81 format)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "43 36 34 20 74 61 70 65 20 69 6D 61 67 65 20 66 69 6C 65",
+    "length": 19,
+    "offset": 0,
+    "extension": ["t64"],
+    "description": "Commodore 64 tape image",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "43 36 34 20 43 41 52 54 52 49 44 47 45 20 20 20",
+    "length": 16,
+    "offset": 0,
+    "extension": ["crt"],
+    "description": "Commodore 64 cartridge image",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "53 49 4D 50 4C 45 20 20 3D 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 54",
+    "length": 30,
+    "offset": 0,
+    "extension": ["fits"],
+    "description": "Flexible Image Transport System (FITS)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "66 4C 61 43",
+    "length": 4,
+    "offset": 0,
+    "extension": ["flac"],
+    "description": "Free Lossless Audio Codec",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4D 54 68 64",
+    "length": 4,
+    "offset": 0,
+    "extension": ["mid", "midi"],
+    "description": "MIDI sound file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "D0 CF 11 E0 A1 B1 1A E1",
+    "length": 8,
+    "offset": 0,
+    "extension": ["doc", "xls", "ppt", "msi", "msg"],
+    "description": "Compound File Binary Format, a container format defined by Microsoft COM. It can contain the equivalent of files and directories. It is used by Windows Installer and for documents in older versions of Microsoft Office.[37] It can be used by other programs as well that rely on the COM and OLE API's.",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "64 65 78 0A 30 33 35 00",
+    "length": 8,
+    "offset": 0,
+    "extension": ["dex"],
+    "description": "Dalvik Executable",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4B 44 4D",
+    "length": 3,
+    "offset": 0,
+    "extension": ["vmdk"],
+    "description": "VMDK files",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "23 20 44 69 73 6B 20 44 65 73 63 72 69 70 74 6F",
+    "length": 16,
+    "offset": 0,
+    "extension": ["vmdk"],
+    "description": "VMware 4 Virtual Disk desription file (split disk)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "43 72 32 34",
+    "length": 4,
+    "offset": 0,
+    "extension": ["crx"],
+    "description": "Google Chrome extension[40] or packaged app",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "41 47 44 33",
+    "length": 4,
+    "offset": 0,
+    "extension": ["fh8"],
+    "description": "FreeHand 8 document",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "05 07 00 00 42 4F 42 4F 05 07 00 00 00 00 00 00 00 00 00 00 00 01",
+    "length": 22,
+    "offset": 0,
+    "extension": ["cwk"],
+    "description": "AppleWorks 5 document",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "06 07 E1 00 42 4F 42 4F 06 07 E1 00 00 00 00 00 00 00 00 00 00 01",
+    "length": 22,
+    "offset": 0,
+    "extension": ["cwk"],
+    "description": "AppleWorks 6 document",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "45 52 02 00 00 00",
+    "length": 6,
+    "offset": 0,
+    "extension": ["toast"],
+    "description": "Roxio Toast disc image file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "8B 45 52 02 00 00 00",
+    "length": 7,
+    "offset": 0,
+    "extension": ["toast"],
+    "description": "Roxio Toast disc image file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "6B 6F 6C 79",
+    "length": 4,
+    "offset": 0,
+    "extension": ["dmg"],
+    "description": "Apple Disk Image file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "78 61 72 21",
+    "length": 4,
+    "offset": 0,
+    "extension": ["xar"],
+    "description": "eXtensible ARchive format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 4D 4F 43 43 4D 4F 43",
+    "length": 8,
+    "offset": 0,
+    "extension": ["dat"],
+    "description": "Windows Files And Settings Transfer Repository. See also USMT 3.0 (Win XP) and USMT 4.0 (Win 7) User Guides",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4E 45 53 1A",
+    "length": 4,
+    "offset": 0,
+    "extension": ["nes"],
+    "description": "Nintendo Entertainment System ROM file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "75 73 74 61 72 00 30 30",
+    "length": 8,
+    "offset": 0,
+    "extension": ["tar"],
+    "description": "tar archive",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "75 73 74 61 72 20 20 00",
+    "length": 8,
+    "offset": 0,
+    "extension": ["tar"],
+    "description": "tar archive",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4F 41 52 ??",
+    "length": 4,
+    "offset": 0,
+    "extension": ["oar"],
+    "description": "OAR file archive format, where ?? is the format version.",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "74 6F 78 33",
+    "length": 4,
+    "offset": 0,
+    "extension": ["tox"],
+    "description": "Open source portable voxel file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4D 4C 56 49",
+    "length": 4,
+    "offset": 0,
+    "extension": ["MLV"],
+    "description": "Magic Lantern Video file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "44 43 4D 01 50 41 33 30",
+    "length": 8,
+    "offset": 0,
+    "extension": [],
+    "description": "Windows Update Binary Delta Compression file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 41 33 30",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Windows Update Binary Delta Compression file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "37 7A BC AF 27 1C",
+    "length": 6,
+    "offset": 0,
+    "extension": ["7z"],
+    "description": "7-Zip File Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "1F 8B",
+    "length": 2,
+    "offset": 0,
+    "extension": ["gz", "tar.gz"],
+    "description": "GZIP compressed file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FD 37 7A 58 5A 00",
+    "length": 6,
+    "offset": 0,
+    "extension": ["xz", "tar.xz"],
+    "description": "XZ compression utility using LZMA2 compression",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "04 22 4D 18",
+    "length": 4,
+    "offset": 0,
+    "extension": ["lz4"],
+    "description": "LZ4 Frame Format (Remark: LZ4 block format does not offer any magic bytes)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4D 53 43 46",
+    "length": 4,
+    "offset": 0,
+    "extension": ["cab"],
+    "description": "Microsoft Cabinet file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "53 5A 44 44 88 F0 27 33",
+    "length": 8,
+    "offset": 0,
+    "extension": ["??_"],
+    "description": "Microsoft compressed file in Quantum format, used prior to Windows XP.  File can be decompressed using Extract.exe or Expand.exe distributed with earlier versions of Windows. After compression, the last character of the original filename extension is replaced with an underscore, e.g. ‘Setup.exe’ becomes ‘Setup.ex_’.",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4C 49 46",
+    "length": 4,
+    "offset": 0,
+    "extension": ["flif"],
+    "description": "Free Lossless Image Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "1A 45 DF A3",
+    "length": 4,
+    "offset": 0,
+    "extension": ["mkv", "mka", "mks", "mk3d", "webm"],
+    "description": "Matroska media container, including WebM",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4D 49 4C 20",
+    "length": 4,
+    "offset": 0,
+    "extension": ["stg"],
+    "description": "\"SEAN : Session Analysis\" Training file. Also used in compatible software \"Rpw : Rowperfect for Windows\" and \"RP3W : ROWPERFECT3 for Windows\"",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "41 54 26 54 46 4F 52 4D ?? ?? ?? ?? 44 4A 56",
+    "length": 15,
+    "offset": 0,
+    "extension": ["djvu", "djv"],
+    "description": "DjVu document The following byte is either 55 (U) for single-page or 4D (M) for multi-page documents",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "30 82",
+    "length": 2,
+    "offset": 0,
+    "extension": ["der"],
+    "description": "DER encoded X.509 certificate",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2D 2D 2D 2D 2D 42 45 47 49 4E 20 43 45 52 54 49 46 49 43 41 54 45 2D 2D 2D 2D 2D",
+    "length": 27,
+    "offset": 0,
+    "extension": ["crt", "pem"],
+    "description": "PEM encoded X.509 certificate",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2D 2D 2D 2D 2D 42 45 47 49 4E 20 43 45 52 54 49 46 49 43 41 54 45 20 52 45 51 55 45 53 54 2D 2D 2D 2D 2D",
+    "length": 35,
+    "offset": 0,
+    "extension": ["csr", "pem"],
+    "description": "PEM encoded X.509 Certificate Signing Request",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2D 2D 2D 2D 2D 42 45 47 49 4E 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D",
+    "length": 27,
+    "offset": 0,
+    "extension": ["key", "pem"],
+    "description": "PEM encoded X.509 PKCS#8 private key",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2D 2D 2D 2D 2D 42 45 47 49 4E 20 44 53 41 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D",
+    "length": 31,
+    "offset": 0,
+    "extension": ["key", "pem"],
+    "description": "PEM encoded X.509 PKCS#1 DSA private key",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2D 2D 2D 2D 2D 42 45 47 49 4E 20 52 45 41 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D",
+    "length": 31,
+    "offset": 0,
+    "extension": ["key", "pem"],
+    "description": "PEM encoded X.509 PKCS#1 RSA private key",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 75 54 54 59 2D 55 73 65 72 2D 4B 65 79 2D 46 69 6C 65 2D 32 3A",
+    "length": 22,
+    "offset": 0,
+    "extension": ["ppk"],
+    "description": "PuTTY private key file version 2",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 75 54 54 59 2D 55 73 65 72 2D 4B 65 79 2D 46 69 6C 65 2D 33 3A",
+    "length": 22,
+    "offset": 0,
+    "extension": ["ppk"],
+    "description": "PuTTY private key file version 3",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2D 2D 2D 2D 2D 42 45 47 49 4E 20 4F 50 45 4E 53 53 48 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D",
+    "length": 35,
+    "offset": 0,
+    "extension": [],
+    "description": "OpenSSH private key file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2D 2D 2D 2D 2D 42 45 47 49 4E 20 53 53 48 32 20 4B 45 59 2D 2D 2D 2D 2D",
+    "length": 24,
+    "offset": 0,
+    "extension": ["pub"],
+    "description": "OpenSSH public key file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "44 49 43 4D",
+    "length": 4,
+    "offset": 0,
+    "extension": ["dcm"],
+    "description": "DICOM Medical File Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "77 4F 46 46",
+    "length": 4,
+    "offset": 0,
+    "extension": ["woff"],
+    "description": "WOFF File Format 1.0",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "77 4F 46 32",
+    "length": 4,
+    "offset": 0,
+    "extension": ["woff2"],
+    "description": "WOFF File Format 2.0",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "3C 3F 78 6D 6C 20",
+    "length": 6,
+    "offset": [0, "after BOM"],
+    "extension": ["xml"],
+    "description": "eXtensible Markup Language",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "3C 00 3F 00 78 00 6D 00 6C 00 20",
+    "length": 11,
+    "offset": [0, "after BOM"],
+    "extension": ["xml"],
+    "description": "eXtensible Markup Language",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 3C 00 3F 00 78 00 6D 00 6C 00 20",
+    "length": 12,
+    "offset": [0, "after BOM"],
+    "extension": ["xml"],
+    "description": "eXtensible Markup Language",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "3C 00 00 00 3F 00 00 00 78 00 00 00 6D 00 00 00 6C 00 00 00 20 00 00 00",
+    "length": 24,
+    "offset": [0, "after BOM"],
+    "extension": ["xml"],
+    "description": "eXtensible Markup Language",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 00 00 3C 00 00 00 3F 00 00 00 78 00 00 00 6D 00 00 00 6C 00 00 00 20",
+    "length": 24,
+    "offset": [0, "after BOM"],
+    "extension": ["xml"],
+    "description": "eXtensible Markup Language",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4C 6F A7 94 93 40",
+    "length": 6,
+    "offset": [0, "after BOM"],
+    "extension": ["xml"],
+    "description": "eXtensible Markup Language",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 61 73 6D",
+    "length": 4,
+    "offset": 0,
+    "extension": ["wasm"],
+    "description": "WebAssembly binary format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "CF 84 01",
+    "length": 3,
+    "offset": 0,
+    "extension": ["lep"],
+    "description": "Lepton compressed JPEG image",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "43 57 53",
+    "length": 3,
+    "offset": 0,
+    "extension": ["swf"],
+    "description": "Adobe Flash .swf",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 57 53",
+    "length": 3,
+    "offset": 0,
+    "extension": ["swf"],
+    "description": "Adobe Flash .swf",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "21 3C 61 72 63 68 3E 0A",
+    "length": 8,
+    "offset": 0,
+    "extension": ["deb"],
+    "description": "linux deb file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 49 46 46 ?? ?? ?? ?? 57 45 42 50",
+    "length": 12,
+    "offset": 0,
+    "extension": ["webp"],
+    "description": "Google WebP image file, where ?? ?? ?? ?? is the file size. More information on WebP File Header",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "27 05 19 56",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "U-Boot / uImage. Das U-Boot Universal Boot Loader",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "7B 5C 72 74 66 31",
+    "length": 6,
+    "offset": 0,
+    "extension": ["rtf"],
+    "description": "Rich Text Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "54 41 50 45",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Microsoft Tape Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "47",
+    "length": 1,
+    "offset": [0, "0xBC", "0x178", "...", "(every 188th byte)"],
+    "extension": ["ts", "tsv", "tsa", "mpg", "mpeg"],
+    "description": "MPEG Transport Stream  (MPEG-2 Part 1)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 00 01 BA",
+    "length": 4,
+    "offset": 0,
+    "extension": ["m2p", "vob", "mpg", "mpeg"],
+    "description": "MPEG Program Stream  (MPEG-1 Part 1 (essentially identical) and MPEG-2 Part 1)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 00 01 B3",
+    "length": 4,
+    "offset": 0,
+    "extension": ["mpg", "mpeg"],
+    "description": "MPEG-1 video and MPEG-2 video  (MPEG-1 Part 2 and MPEG-2 Part 2)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "66 74 79 70 69 73 6F 6D",
+    "length": 8,
+    "offset": 0,
+    "extension": ["mp4"],
+    "description": "ISO Base Media file (MPEG-4)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "78 01",
+    "length": 2,
+    "offset": 0,
+    "extension": ["zlib"],
+    "description": "No Compression (no preset dictionary)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "78 5E",
+    "length": 2,
+    "offset": 0,
+    "extension": ["zlib"],
+    "description": "No Compression (no preset dictionary)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "78 9C",
+    "length": 2,
+    "offset": 0,
+    "extension": ["zlib"],
+    "description": "No Compression (no preset dictionary)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "78 DA",
+    "length": 2,
+    "offset": 0,
+    "extension": ["zlib"],
+    "description": "No Compression (no preset dictionary)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "78 20",
+    "length": 2,
+    "offset": 0,
+    "extension": ["zlib"],
+    "description": "No Compression (no preset dictionary)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "78 7D",
+    "length": 2,
+    "offset": 0,
+    "extension": ["zlib"],
+    "description": "No Compression (no preset dictionary)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "78 BB",
+    "length": 2,
+    "offset": 0,
+    "extension": ["zlib"],
+    "description": "No Compression (no preset dictionary)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "78 F9",
+    "length": 2,
+    "offset": 0,
+    "extension": ["zlib"],
+    "description": "No Compression (no preset dictionary)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "62 76 78 32",
+    "length": 4,
+    "offset": 0,
+    "extension": ["lzfse"],
+    "description": "LZFSE - Lempel-Ziv style data compression algorithm using Finite State Entropy coding. OSS by Apple",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4F 52 43",
+    "length": 3,
+    "offset": 0,
+    "extension": ["orc"],
+    "description": "Apache ORC (Optimized Row Columnar) file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4F 62 6A 01",
+    "length": 4,
+    "offset": 0,
+    "extension": ["avro"],
+    "description": "Apache Avro binary file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "53 45 51 36",
+    "length": 4,
+    "offset": 0,
+    "extension": ["rc"],
+    "description": "RCFile columnar file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "65 87 78 56",
+    "length": 4,
+    "offset": 0,
+    "extension": ["p25", "obt"],
+    "description": "PhotoCap Object Templates",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "55 55 AA AA",
+    "length": 4,
+    "offset": 0,
+    "extension": ["pcv"],
+    "description": "PhotoCap Vector",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "78 56 34",
+    "length": 3,
+    "offset": 0,
+    "extension": [
+      "pbt",
+      "pdt",
+      "pea",
+      "peb",
+      "pet",
+      "pgt",
+      "pict",
+      "pjt",
+      "pkt",
+      "pmt"
+    ],
+    "description": "PhotoCap Template",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 41 52 31",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Apache Parquet columnar file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "45 4D 58 32",
+    "length": 4,
+    "offset": 0,
+    "extension": ["ez2"],
+    "description": "Emulator Emaxsynth samples",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "45 4D 55 33",
+    "length": 4,
+    "offset": 0,
+    "extension": ["ez3", "iso"],
+    "description": "Emulator III synth samples",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "1B 4C 75 61",
+    "length": 4,
+    "offset": 0,
+    "extension": ["luac"],
+    "description": "Lua bytecode",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "62 6F 6F 6B 00 00 00 00 6D 61 72 6B 00 00 00 00",
+    "length": 16,
+    "offset": 0,
+    "extension": ["alias"],
+    "description": "macOS file Alias (Symbolic link)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "5B 5A 6F 6E 65 54 72 61 6E 73 66 65 72 5D",
+    "length": 14,
+    "offset": 0,
+    "extension": ["Identifier"],
+    "description": "Microsoft Zone Identifier for URL Security Zones",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 65 63 65 69 76 65 64 3A",
+    "length": 9,
+    "offset": 0,
+    "extension": ["eml"],
+    "description": "Email Message var5 [citation needed]",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "20 02 01 62 A0 1E AB 07 02 00 00 00",
+    "length": 12,
+    "offset": 0,
+    "extension": ["tde"],
+    "description": "Tableau Datasource",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "37 48 03 02 00 00 00 00 58 35 30 39 4B 45 59",
+    "length": 15,
+    "offset": 0,
+    "extension": ["kdb"],
+    "description": "KDB file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "85 ?? ?? 03",
+    "length": 4,
+    "offset": 0,
+    "extension": ["pgp"],
+    "description": "PGP file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "28 B5 2F FD",
+    "length": 4,
+    "offset": 0,
+    "extension": ["zst"],
+    "description": "Zstandard compress",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 53 56 4B 44 41 54 41",
+    "length": 8,
+    "offset": 0,
+    "extension": ["rs"],
+    "description": "QuickZip rs compressed archive",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "3A 29 0A",
+    "length": 3,
+    "offset": 0,
+    "extension": ["sml"],
+    "description": "Smile file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4A 6F 79 21",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "Preferred Executable Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "31 0A 30 30",
+    "length": 4,
+    "offset": 0,
+    "extension": ["srt"],
+    "description": "SubRip File",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "34 12 AA 55",
+    "length": 4,
+    "offset": 0,
+    "extension": ["vpk"],
+    "description": "VPK file, used to store game data for some Source Engine games",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2A 2A 41 43 45 2A 2A",
+    "length": 7,
+    "offset": 0,
+    "extension": ["ace"],
+    "description": "ACE (compressed file format)[citation needed]",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "60 EA",
+    "length": 2,
+    "offset": 0,
+    "extension": ["arj"],
+    "description": "ARJ",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "49 53 63 28",
+    "length": 4,
+    "offset": 0,
+    "extension": ["cab"],
+    "description": "InstallShield CAB Archive File",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4B 57 41 4A",
+    "length": 4,
+    "offset": 0,
+    "extension": ["??_"],
+    "description": "Windows 3.1x Compressed File",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "53 5A 44 44",
+    "length": 4,
+    "offset": 0,
+    "extension": ["??_"],
+    "description": "Windows 9x Compressed File",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "5A 4F 4F",
+    "length": 3,
+    "offset": 0,
+    "extension": ["zoo"],
+    "description": "Zoo (file format)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 31 0A",
+    "length": 3,
+    "offset": 0,
+    "extension": ["pbm"],
+    "description": "Portable bitmap ASCII",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 34 0A",
+    "length": 3,
+    "offset": 0,
+    "extension": ["pbm"],
+    "description": "Portable bitmap binary",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 32 0A",
+    "length": 3,
+    "offset": 0,
+    "extension": ["pgm"],
+    "description": "Portable Gray Map ASCII",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 35 0A",
+    "length": 3,
+    "offset": 0,
+    "extension": ["pgm"],
+    "description": "Portable Gray Map binary",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 33 0A",
+    "length": 3,
+    "offset": 0,
+    "extension": ["ppm"],
+    "description": "Portable Pixmap ASCII",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 36 0A",
+    "length": 3,
+    "offset": 0,
+    "extension": ["ppm"],
+    "description": "Portable Pixmap binary",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "D7 CD C6 9A",
+    "length": 4,
+    "offset": 0,
+    "extension": ["wmf"],
+    "description": "Windows Metafile",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "67 69 6D 70 20 78 63 66",
+    "length": 8,
+    "offset": 0,
+    "extension": ["xcf"],
+    "description": "XCF (file format)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2F 2A 20 58 50 4D 20 2A 2F",
+    "length": 9,
+    "offset": 0,
+    "extension": ["xpm"],
+    "description": "X PixMap",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "41 46 46",
+    "length": 3,
+    "offset": 0,
+    "extension": ["aff"],
+    "description": "Advanced Forensics Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "45 56 46 32",
+    "length": 4,
+    "offset": 0,
+    "extension": ["Ex01"],
+    "description": "EnCase EWF version 2 format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "45 56 46",
+    "length": 3,
+    "offset": 0,
+    "extension": ["e01"],
+    "description": "EnCase EWF version 1 format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "51 46 49",
+    "length": 3,
+    "offset": 0,
+    "extension": ["qcow"],
+    "description": "qcow file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 49 46 46 ?? ?? ?? ?? 41 43 4F 4E",
+    "length": 12,
+    "offset": 0,
+    "extension": ["ani"],
+    "description": "Animated cursor",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 49 46 46 ?? ?? ?? ?? 43 44 44 41",
+    "length": 12,
+    "offset": 0,
+    "extension": ["cda"],
+    "description": ".cda file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 49 46 46 ?? ?? ?? ?? 51 4C 43 4D",
+    "length": 12,
+    "offset": 0,
+    "extension": ["qcp"],
+    "description": "Qualcomm PureVoice file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 49 46 58 ?? ?? ?? ?? 46 47 44 4D",
+    "length": 12,
+    "offset": 0,
+    "extension": ["dcr"],
+    "description": "Adobe Shockwave (big-endian)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "58 46 49 52 ?? ?? ?? ?? 4D 44 47 46",
+    "length": 12,
+    "offset": 0,
+    "extension": ["dcr"],
+    "description": "Adobe Shockwave (little-endian)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 49 46 58 ?? ?? ?? ?? 4D 56 39 33",
+    "length": 12,
+    "offset": 0,
+    "extension": ["dir", "dxr", "drx"],
+    "description": "Macromedia Director file format (big-endian)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "58 46 49 52 ?? ?? ?? ?? 33 39 56 4D",
+    "length": 12,
+    "offset": 0,
+    "extension": ["dir", "dxr", "drx"],
+    "description": "Macromedia Director file format (little-endian)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4C 56",
+    "length": 3,
+    "offset": 0,
+    "extension": ["flv"],
+    "description": "Flash Video file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "3C 3C 3C 20 4F 72 61 63 6C 65 20 56 4D 20 56 69 72 74 75 61 6C 42 6F 78 20 44 69 73 6B 20 49 6D 61 67 65 20 3E 3E 3E",
+    "length": 39,
+    "offset": 0,
+    "extension": ["vdi"],
+    "description": "VirtualBox Virtual Hard Disk file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "63 6F 6E 6E 65 63 74 69 78",
+    "length": 9,
+    "offset": 0,
+    "extension": ["vhd"],
+    "description": "Windows Virtual PC Virtual Hard Disk file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "76 68 64 78 66 69 6C 65",
+    "length": 8,
+    "offset": 0,
+    "extension": ["vhdx"],
+    "description": "Windows Virtual PC Windows 8 Virtual Hard Disk file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "49 73 5A 21",
+    "length": 4,
+    "offset": 0,
+    "extension": ["isz"],
+    "description": "Compressed ISO image",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "44 41 41",
+    "length": 3,
+    "offset": 0,
+    "extension": ["daa"],
+    "description": "Direct Access Archive PowerISO",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4C 66 4C 65",
+    "length": 4,
+    "offset": 0,
+    "extension": ["evt"],
+    "description": "Windows Event Viewer file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "45 6C 66 46 69 6C 65",
+    "length": 7,
+    "offset": 0,
+    "extension": ["evtx"],
+    "description": "Windows Event Viewer XML file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "73 64 62 66",
+    "length": 4,
+    "offset": 0,
+    "extension": ["sdb"],
+    "description": "Windows customized database",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "50 4D 43 43",
+    "length": 4,
+    "offset": 0,
+    "extension": ["grp"],
+    "description": "Windows 3.x Program Manager Program Group file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4B 43 4D 53",
+    "length": 4,
+    "offset": 0,
+    "extension": ["icm"],
+    "description": "ICC profile",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "72 65 67 66",
+    "length": 4,
+    "offset": 0,
+    "extension": ["dat", "hiv"],
+    "description": "Windows Registry file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "21 42 44 4E",
+    "length": 4,
+    "offset": 0,
+    "extension": ["pst"],
+    "description": "Microsoft Outlook Personal Storage Table file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "44 52 41 43 4F",
+    "length": 5,
+    "offset": 0,
+    "extension": ["drc"],
+    "description": "3D model compressed with Google Draco",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "47 52 49 42",
+    "length": 4,
+    "offset": 0,
+    "extension": ["grib", "grib2"],
+    "description": "Gridded data (commonly weather observations or forecasts) in the WMO GRIB or GRIB2 format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "42 4C 45 4E 44 45 52",
+    "length": 7,
+    "offset": 0,
+    "extension": ["blend"],
+    "description": "Blender File Format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 00 00 0C 4A 58 4C 20 0D 0A 87 0A",
+    "length": 12,
+    "offset": 0,
+    "extension": ["jxl"],
+    "description": "Image encoded in the JPEG XL format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "FF 0A",
+    "length": 2,
+    "offset": 0,
+    "extension": ["jxl"],
+    "description": "Image encoded in the JPEG XL format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 01 00 00 00",
+    "length": 5,
+    "offset": 0,
+    "extension": ["ttf", "tte", "dfont"],
+    "description": "TrueType font",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4F 54 54 4F",
+    "length": 4,
+    "offset": 0,
+    "extension": ["otf"],
+    "description": "OpenType font",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "23 25 4D 6F 64 75 6C 65",
+    "length": 8,
+    "offset": 0,
+    "extension": [],
+    "description": "Modulefile for Environment Modules",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "4D 53 57 49 4D 00 00 00 D0 00 00 00 00",
+    "length": 13,
+    "offset": 0,
+    "extension": ["wim", "swm", "esd"],
+    "description": "Windows Imaging Format file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "21 2D 31 53 4C 4F 42 1F",
+    "length": 8,
+    "offset": 0,
+    "extension": ["slob"],
+    "description": "Slob (sorted list of blobs) is a read-only, compressed data store with dictionary-like interface",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "AC ED",
+    "length": 2,
+    "offset": 0,
+    "extension": [],
+    "description": "Serialized Java Data",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "43 72 65 61 74 69 76 65 20 56 6F 69 63 65 20 46 69 6C 65 1A 1A 00",
+    "length": 22,
+    "offset": 0,
+    "extension": ["voc"],
+    "description": "Creative Voice file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "2E 73 6E 64",
+    "length": 4,
+    "offset": 0,
+    "extension": ["au", "snd"],
+    "description": "Au audio file format",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "DB 0A CE 00",
+    "length": 4,
+    "offset": 0,
+    "extension": [],
+    "description": "OpenGL Iris Perfomer .PFB (Performer Fast Binary)",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "48 5a 4c 52 00 00 00 18",
+    "length": 8,
+    "offset": 0,
+    "extension": ["hazelrules"],
+    "description": "Noodlesoft Hazel",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "46 4C 68 64",
+    "length": 4,
+    "offset": 0,
+    "extension": ["flp"],
+    "description": "FL Studio Project File",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "31 30 4C 46",
+    "length": 4,
+    "offset": 0,
+    "extension": ["flm"],
+    "description": "FL Studio Mobile Project File",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "52 4b 4d 43 32 31 30",
+    "length": 7,
+    "offset": 0,
+    "extension": [],
+    "description": "Vormetric Encryption DPM Version 2.1 Header",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 01 00 00 4D 53 49 53 41 4D 20 44 61 74 61 62 61 73 65",
+    "length": 19,
+    "offset": 0,
+    "extension": ["mny"],
+    "description": "Microsoft Money file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 01 00 00 53 74 61 6E 64 61 72 64 20 41 43 45 20 44 42",
+    "length": 19,
+    "offset": 0,
+    "extension": ["accdb"],
+    "description": "Microsoft Access 2007 Database",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "00 01 00 00 53 74 61 6E 64 61 72 64 20 4A 65 74 20 44 42",
+    "length": 19,
+    "offset": 0,
+    "extension": ["mdb"],
+    "description": "Microsoft Access Database",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "01 FF 02 04 03 02",
+    "length": 6,
+    "offset": 0,
+    "extension": ["drw"],
+    "description": "Micrografx vector graphic file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "02 64 73 73",
+    "length": 4,
+    "offset": 0,
+    "extension": ["dss"],
+    "description": "Digital Speech Standard (Olympus, Grundig, & Phillips) v2",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "03 64 73 73",
+    "length": 4,
+    "offset": 0,
+    "extension": ["dss"],
+    "description": "Digital Speech Standard (Olympus, Grundig, & Phillips) v3",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "03 00 00 00 41 50 50 52",
+    "length": 8,
+    "offset": 0,
+    "extension": ["adx"],
+    "description": "Approach index file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "06 06 ED F5 D8 1D 46 E5 BD 31 EF E7 FE 74 B7 1D",
+    "length": 16,
+    "offset": 0,
+    "extension": ["indd"],
+    "description": "Adobe InDesign document",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "06 0E 2B 34 02 05 01 01 0D 01 02 01 01 02",
+    "length": 14,
+    "offset": 0,
+    "extension": ["mxf"],
+    "description": "Material Exchange Format file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "07 53 4B 46",
+    "length": 4,
+    "offset": 0,
+    "extension": ["skf"],
+    "description": "SkinCrafter skin file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "07 64 74 32 64 64 74 64",
+    "length": 8,
+    "offset": 0,
+    "extension": ["dtd"],
+    "description": "DesignTools 2D Design file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "0A 16 6F 72 67 2E 62 69 74 63 6F 69 6E 2E 70 72",
+    "length": 16,
+    "offset": 0,
+    "extension": ["wallet"],
+    "description": "MultiBit Bitcoin wallet file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "0D 44 4F 43",
+    "length": 4,
+    "offset": 0,
+    "extension": ["doc"],
+    "description": "DeskMate Document file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "0E 4E 65 72 6F 49 53 4F",
+    "length": 8,
+    "offset": 0,
+    "extension": ["nri"],
+    "description": "Nero CD Compilation",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "0E 57 4B 53",
+    "length": 4,
+    "offset": 0,
+    "extension": ["wks"],
+    "description": "DeskMate Worksheet",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "0F 53 49 42 45 4C 49 55 53",
+    "length": 9,
+    "offset": 0,
+    "extension": ["sib"],
+    "description": "Sibelius Music - Score file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "23 20 4D 69 63 72 6F 73 6F 66 74 20 44 65 76 65 6C 6F 70 65 72 20 53 74 75 64 69 6F",
+    "length": 28,
+    "offset": 0,
+    "extension": ["dsp"],
+    "description": "Microsoft Developer Studio project file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "23 21 41 4D 52",
+    "length": 5,
+    "offset": 0,
+    "extension": ["amr"],
+    "description": "Adaptive Multi-Rate ACELP (Algebraic Code Excited Linear Prediction) Codec, commonly audio format with GSM cell phones.",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "23 21 53 49 4C 4B 0A",
+    "length": 7,
+    "offset": 0,
+    "extension": ["sil"],
+    "description": "Audio compression format developed by Skype",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "23 3F 52 41 44 49 41 4E 43 45 0A",
+    "length": 11,
+    "offset": 0,
+    "extension": ["hdr"],
+    "description": "Radiance High Dynamic Range image file",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  },
+  {
+    "signature": "23 40 7E 5E",
+    "length": 4,
+    "offset": 0,
+    "extension": ["vbe"],
+    "description": "VBScript Encoded script",
+    "verfified": true,
+    "source": "https://en.wikipedia.org/wiki/List_of_file_signatures"
+  }
+]

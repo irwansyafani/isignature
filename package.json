@@ -1,0 +1,39 @@
+{
+  "name": "isignature",
+  "version": "1.0.0",
+  "description": "File extractor to get real extension of file given by checking through the file's signature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "npm",
+    "url": "https://github.com/irwansyafani/isignature"
+  },
+  "author": {
+    "name": "irwansyafani",
+    "url": "https://irwansyafani.com"
+  },
+  "license": "ISC",
+  "keywords": [
+    "file signature",
+    "file signatures",
+    "signature",
+    "magicnumber",
+    "magic number",
+    "file",
+    "type",
+    "hex",
+    "detection",
+    "filetype",
+    "mimetype",
+    "magic byte",
+    "validation",
+    "magic-bytes",
+    "extension",
+    "buffer",
+    "validator",
+    "mime",
+    "sniffer"
+  ]
+}
