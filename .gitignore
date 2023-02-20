@@ -1,0 +1,4 @@
+test.js
+*.jpg
+node_modules
+.DS_Store
