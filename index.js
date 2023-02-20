@@ -27,7 +27,11 @@ const getSignature = (filepath) => {
     const filehex = [];
 
     let similarities = signatures.map((item) => {
-      item.signature = item.signature.split(" ");
+      try {
+        item.signature = item?.signature?.split?.(" ");
+      } catch (error) {
+        return item;
+      }
       return item;
     });
 
