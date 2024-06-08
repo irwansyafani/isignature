@@ -1,4 +1,6 @@
 # iSignature
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Firwansyafani%2Fisignature.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Firwansyafani%2Fisignature?ref=badge_shield)
+
 
 File extractor to get real extension of file given by checking through the file's signature
 
@@ -38,3 +40,7 @@ console.log(data)
 
 [signature.json](https://github.com/irwansyafani/isignature/blob/master/signatures.json)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Firwansyafani%2Fisignature.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Firwansyafani%2Fisignature?ref=badge_large)
