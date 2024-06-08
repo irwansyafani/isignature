@@ -1,6 +1,15 @@
 const fs = require("fs");
 const signatures = require("./signatures.json");
 
+let similarities = signatures.map((item) => {
+  try {
+    item.signature = item?.signature?.split?.(" ");
+  } catch (error) {
+    return item;
+  }
+  return item;
+});
+
 const gCode = (key) => {
   if (key.length == 1) {
     return "0" + key.toUpperCase();
@@ -25,15 +34,6 @@ const getSignature = (filepath) => {
   if (filepath) {
     const file = fs.readFileSync(filepath).subarray(0, 50).toJSON().data;
     const filehex = [];
-
-    let similarities = signatures.map((item) => {
-      try {
-        item.signature = item?.signature?.split?.(" ");
-      } catch (error) {
-        return item;
-      }
-      return item;
-    });
 
     for (const key in file) {
       filehex.push(gCode(file[key].toString(16)));
